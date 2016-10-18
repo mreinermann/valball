@@ -17,4 +17,4 @@ weight=2
 
 Die Unterbringung erfolgt nach Möglichkeit in der von Ihnen beantragten Zusammensetzung. Paare und Familien werden bevorzugt zusammen untergebracht. Grundsätzlich kann ein Einzelzimmer nicht garantiert werden.
 
-__Die Zimmereinteilung erfolgt durch uns, bitte teilt uns die Wünsche bei der Anmeldung mit. Zimmerwünsche direkt an das Hotel sind zwecklos.__
+__Die Zimmereinteilung erfolgt durch das Organisationsteam. Zimmerwünsche direkt an das Hotel sind zwecklos.__
