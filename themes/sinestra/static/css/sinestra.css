@@ -1,0 +1,146 @@
+
+body {
+	font-family: "MV Boli";
+}
+
+.abstract {
+	background-color: white;
+	border-top : solid;
+	border-color : lightgrey;
+	border-width : 2px; 
+	margin : 0.3em 0.3em 0em 0.3em;
+	height : 9em;
+	padding-top : 5px;
+}
+
+.abstracthead {
+	font-size : 2em;
+	margin-bottom : 2em;
+}
+
+.post {
+	font-size: 1.2em;
+	border-top : solid;
+	border-width : 2px; 
+	margin : 0.3em 0.3em 1em 0.3em;
+	padding-top : 0.5em;
+	padding-bottom : 0.5em;
+	text-align: left;
+}
+
+.posthead {
+	font-size : 2em;
+	margin-bottom : 1em;
+}
+
+.news {
+	font-size : 2em;
+	/* background-color: white; */ 
+	border-top : solid;
+	border-color : lightgrey;
+	border-width : 2px; 
+	padding : 0.3em 0.3em 1em 0.3em;
+}
+
+/*.navbar {
+	font-size: 1.2em;
+}*/
+
+/* ----------------------------------
+*  Color scheme dark blue
+*/
+.scheme-darkblue {
+	background-color : #C6DEFF;
+}
+.scheme-darkblue .jumbotron { 
+	background-color: #C6DEFF; 
+	color: black;
+}
+.scheme-darkblue .navbar {
+    background-color: darkblue;
+    border-color: #E7E7E7;
+    color: lightblue;
+}
+.scheme-darkblue .navbar a{
+    color: lightblue;
+}
+.scheme-darkblue .navbar a:hover{
+	background-color: blue;
+    color: white;
+}
+.scheme-lightgrey .navbar-toggle .icon-bar {
+  background-color: grey;
+  color : grey;
+}
+.scheme-darkblue .post {
+	background-color: #C6DEFF;
+	color : black;
+	border-color : lightgrey;
+}
+.scheme-darkblue .posthead {
+	background-color: #C6DEFF;
+	color : black;
+}*
+.scheme-darkblue footer {
+	background-color: darkblue;
+	color : white;
+}
+
+/* ----------------------------------
+*  Color scheme light grey
+*/
+
+.scheme-lightgrey .jumbotron { 
+	background-color: darkgrey; 
+	color: white;
+}
+.scheme-lightgrey .navbar {
+    background-color: white;
+    border-color: #E7E7E7;
+    color: darkgrey;
+}
+.scheme-lightgrey .navbar a{
+    color: darkgrey;
+}
+.scheme-lightgrey .navbar a:hover{
+	background-color: orange;
+    color: black;
+}
+.scheme-lightgrey .navbar-toggle .icon-bar {
+  background-color: #888888;
+}
+.scheme-lightgrey .post {
+	background-color: white;
+	color : black;
+	border-color : orange;
+}
+.scheme-lightgrey .posthead {
+	background-color: white;
+	color : black;
+}
+.scheme-lightgrey footer {
+	background-color: #f0f0f0;
+	color : black;
+}
+
+/* Light Brown Scheme */
+.scheme-lightbrown .sidebar {
+	background-color: #d3d0c8;
+	color: #393939;
+}
+.scheme-lightbrown .sidebar h1 {
+	color: #393939;
+}
+.scheme-lightbrown .sidebar a {
+	color: #515151;
+}
+.scheme-lightbrown .content a {
+	color: #393939;
+}
+.scheme-lightbrown .post .post-heading span {
+	color: #9a9a9a;
+}
+
+
+
+

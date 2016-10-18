@@ -1,0 +1,48 @@
+theme = "sinestra"
+baseurl = "http://localhost:1313/"
+title = "Valball"
+languageCode = "de-de"
+
+
+[params]
+	description = "2017"
+	DateFormat = "2 Jan 2006"
+	sidebarDescription = "This is my blog about content"
+	sidebarFreeText = "coming soon..."
+	colorScheme = "scheme-lightgrey"
+	RSSlink = "/tags/news"
+	
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[[menu.main]]
+    name = "Informationen"
+    identifier = "informationen"
+    url = "/tags/info/"
+	weight = 1
+[[menu.main]]
+    name = "Anmeldung"
+    url = "/tags/anmeldung/"
+	weight = 2
+[[menu.main]]
+    name = "Anreise"
+    url = "/tags/anreise/"
+	hasChildren = "false"
+	weight = 3
+[[menu.main]]
+    name = "Fotos"
+    url = "/tags/fotos/"
+	weight = 4
+[[menu.main]]
+    name = "Jungtänzer"
+    url = "/tags/jungtaenzer/"
+	weight = 5
+[[menu.main]]
+    name = "Kontakt"
+    url = "/tags/kontakt/"
+	weight = 6
+[[menu.main]]
+    name = "Impressum"
+    url = "/tags/impressum/"
+	weight = 7

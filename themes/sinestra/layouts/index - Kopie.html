@@ -1,0 +1,62 @@
+﻿{{ partial "header.html" . }}
+
+<div class="container-fluid bg-3 text-center">    
+  {{ range .Data.categories.news }}
+  <div class="row">
+	<div class="col-sm-1">
+	  <p></p>
+	</div>
+	<div class="col-sm-3"> 
+	  <p class="news text-right">{{ .Date.Format .Site.Params.DateFormat }} {{ .Title}}</p>
+	</div>
+	<div class="col-sm-7"> 
+	  <p class="news text-left">{{ .Content }}</p>
+	</div>
+	<div class="col-sm-1"> 
+	  <p></p>
+	</div>
+  </div>
+  {{ end }}
+</div><br>
+
+
+<div class="container-fluid bg-3 text-center">    
+  <!--h3>Informationen</h3><br-->
+  <div class="row">
+	<div class="col-sm-1">
+	  <p></p>
+	</div>
+	<div class="col-sm-3"> 
+	  <p class="news text-right">13.10.2016</p>
+	</div>
+	<div class="col-sm-7"> 
+	  <p class="news text-left">Der Termin für den Valball 2029 steht fest: <br/>03.10.2017 - 05.10.2017 <br/>Wir bitten alle Tänzer den Termin zu reservieren!</p>
+	</div>
+	<div class="col-sm-1"> 
+	  <p></p>
+	</div>
+  </div>
+</div><br>
+
+<div class="container-fluid bg-3 text-center">    
+  <!--h3>Informationen</h3><br-->
+  <div class="row">
+	<div class="col-sm-1">
+	  <p></p>
+	</div>
+	<div class="col-sm-3"> 
+	  <p class="news text-right">13.10.2016</p>
+	</div>
+	<div class="col-sm-7"> 
+	  <p class="news text-left">Das Team steht, die Planung beginnt...</p>
+	</div>
+	<div class="col-sm-1"> 
+	  <p></p>
+	</div>
+  </div>
+</div>
+
+
+{{ partial "footer.html" . }}
+
+
