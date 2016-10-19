@@ -3,14 +3,15 @@ baseurl = "http://localhost:1313/"
 title = "Valball"
 languageCode = "de-de"
 
+RSSUri = "rss"
 
 [params]
 	description = "2017"
-	DateFormat = "2 Jan 2006"
+	DateFormat = "02. 01. 2006"
 	sidebarDescription = "This is my blog about content"
 	sidebarFreeText = "coming soon..."
 	colorScheme = "scheme-lightgrey"
-	RSSlink = "/tags/news"
+	copyright = ""
 	
 [taxonomies]
   category = "categories"
