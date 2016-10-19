@@ -103,8 +103,8 @@ body {
     color: darkgrey;
 }
 .scheme-lightgrey .navbar a:hover{
-	background-color: orange;
-    color: black;
+	background-color: darkred;
+    color: white;
 }
 .scheme-lightgrey .navbar-toggle .icon-bar {
   background-color: #888888;
@@ -112,7 +112,7 @@ body {
 .scheme-lightgrey .post {
 	background-color: white;
 	color : black;
-	border-color : orange;
+	border-color : darkred;
 }
 .scheme-lightgrey .posthead {
 	background-color: white;
