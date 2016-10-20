@@ -3,7 +3,7 @@ Categories = [
   "post",
 ]
 
-date = ""
+date = "2016-10-15T12:44:00+02:00"
 title = "Ballkarten"
 Description = ""
 Tags = [
