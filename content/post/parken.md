@@ -14,6 +14,6 @@ weight=3
 +++
 
 Der Parkplatz befindet sich unten am Bach beim Berghaus. 
-Bitte direkt nach dem Ausladen am Haus die Kraftwagen dort parkieren, da Postbusse bis vor das Hotel fahren und dort wenden müssen. Auch in der Kurve vor dem Hotel ist das Parken verboten!
+Bitte direkt nach dem Ausladen am Haus die Kraftwagen dort parkieren, da Postbusse bis vor das Hotel fahren und dort wenden müssen. Auch in der Kehre vor dem Hotel ist das Parken verboten!
 
 Es wird darum gebeten platzsparend zu parken.
