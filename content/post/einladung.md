@@ -10,6 +10,9 @@ Categories = [
 ]
 
 +++
+	“Ich habe Interesse am Valball und möchte gerne eine Einladung erhalten!”
+	
+Die Einladungen gehen zur gewohnten Zeit im Frühjahr in die Post- also ab April auf Briefe achten.
+Solltest Du bisher nicht auf dem Verteiler stehen, nutze bitte die Möglichkeit, sich für den Verteiler vormerken zu lassen. Hierzu bitte direkt per E-Mail an das [Ballkomitee](/tags/kontakt) wenden.
 
-
-Bitte nutze die Möglichkeit, sich für den Verteiler vormerken zu lassen! Uns interessiert natürlich auch, wie Du auf uns aufmerksam geworden bist! Die Einladungen gehen zur gewohnten Zeit im Frühjahr in die Post- also ab April auf Briefe achten. (Selbstregistrierung)
+Uns interessiert natürlich auch, wie Du auf uns aufmerksam geworden bist! 
