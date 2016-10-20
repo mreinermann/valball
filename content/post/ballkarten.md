@@ -4,7 +4,7 @@ Categories = [
 ]
 
 date = "2016-10-15T12:44:00+02:00"
-title = "Ballkarten"
+title = "Inklusive"
 Description = ""
 Tags = [
   "post", "anmeldung",
