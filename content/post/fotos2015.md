@@ -7,7 +7,8 @@ Tags = [
 Categories = [
   "post",
 ]
-weight = 2
+weight = 3
 +++
 
-Die Fotos vom Valball 2015 erreichst du unter:
+[Fotos vom Valball 2015](http://www.valball.de/2015/fotos2015/)
+(Einbürgerungsverfahren)
