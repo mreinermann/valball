@@ -32,12 +32,12 @@ RSSUri = "rss"
 	hasChildren = "false"
 	weight = 3
 [[menu.main]]
-    name = "Rückblick & Fotos"
-    url = "/tags/fotos/"
-	weight = 4
-[[menu.main]]
     name = "Jungtänzer"
     url = "/tags/jungtaenzer/"
+	weight = 4
+[[menu.main]]
+    name = "Rückblick & Fotos"
+    url = "/tags/fotos/"
 	weight = 5
 [[menu.main]]
     name = "Kontakt"
