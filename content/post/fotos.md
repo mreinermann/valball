@@ -7,7 +7,7 @@ Tags = [
 Categories = [
   "post",
 ]
-weight = 1
+weight = 2
 +++
 
 Wie in den vergangenen Jahren werden die Fotos des Balls in einem passwordgeschützten Bereich bereitgestellt. 
