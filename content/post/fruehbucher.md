@@ -10,7 +10,7 @@ Tags = [
   "fruehbucher"
 ]
 Description = ""
-
+weight = 4
 +++
 
 Der Termin für das Ende der Frühbucherfrist wird noch bekannt gegeben.

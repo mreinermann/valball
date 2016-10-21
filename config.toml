@@ -32,7 +32,7 @@ RSSUri = "rss"
 	hasChildren = "false"
 	weight = 3
 [[menu.main]]
-    name = "Fotos"
+    name = "Rückblick & Fotos"
     url = "/tags/fotos/"
 	weight = 4
 [[menu.main]]

@@ -8,6 +8,7 @@ Tags = [
 Categories = [
   "post",
 ]
-
+weight = 90
 +++
 
+Die Preise werden noch bekannt gegeben.

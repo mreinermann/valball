@@ -9,8 +9,11 @@ Categories = [
 ]
 
 Description = ""
+weight = 1
+draft = false
 
 +++
-Die Anzahl der Ballteilnehmer ist begrenzt! Die Plätze werden strikt nach dem „First come, first serve“ Prinzip vergeben. Bitte beachte auch diese wichtigen Termine:
+Die Einladungen werden wieder im Frühjahr 2017 an alle Tänzer auf unserer Einladungsliste versandt. Zeitgleich wird dann die Anmeldung möglich sein. Wenn es soweit ist, wird das auch an dieser Stelle kundgetan. 
+Die Möglichkeit der [Vormerkung](/tags/einladung) gibt es natürlich schon jetzt.
 
-Der Anmeldeschluss und der Termin zur Wahrnehmung des Frühbucherrabatts werden noch bekannt gegeben.
+Die Anzahl der Ballteilnehmer ist begrenzt! Die Plätze werden strikt nach dem „First come, first serve“ Prinzip vergeben. 

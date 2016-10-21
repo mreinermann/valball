@@ -11,7 +11,9 @@ Categories = [
 Description = ""
 date = "2016-10-10T22:34:35+02:00"
 title = "Anmeldeschluss"
-
+weight = 3
 +++
 
-Die Termine für den regulären Anmeldeschluss und die Frist für die Wahrung des Frühbucherrabatts werden noch bekannt gegeben.
+Der Termin für den regulären Anmeldeschluss wird noch bekannt gegeben. 
+
+Bitte beachtet auch: Die Anzahl der Ballteilnehmer ist begrenzt! Die Plätze werden strikt nach dem „First come, first serve“ Prinzip vergeben.
